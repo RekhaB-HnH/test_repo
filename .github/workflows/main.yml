@@ -1,4 +1,4 @@
-name: Test PowerShell Connection
+name: Test PowerShell Connection.
 
 on:
   push:
